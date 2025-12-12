@@ -1,4 +1,4 @@
-# Text-Classification-Analysis
+# Text Classification Analysis
 
 This project focuses on building a complete Text Classification workflow using machine learning and natural language processing (NLP) techniques. The goal is to transform raw text data into meaningful insights by training models that can accurately classify text into predefined categories.
 
